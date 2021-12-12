@@ -48,9 +48,6 @@ int main()
 		printf("%s/: sau > ",location);
 		fgets(main_obj.line,80,stdin);
 		main_obj = splitter(main_obj);
-		
-
-
 
 
 	}
